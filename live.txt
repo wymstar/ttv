@@ -631,6 +631,7 @@ Liangshan TV [Not 24/7],http://118.122.2.29:9999/hls/47/index.m3u8
 Nanchang News & Generalist Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_nanchang.m3u8
 Qinghai TV,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
 QTV-1,http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
+QTV-1,http://119.166.53.110:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 QTV-2,http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
 QTV-3,http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
 QTV-4,http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
