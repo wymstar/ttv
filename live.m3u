@@ -1241,12 +1241,18 @@ http://119.166.53.110:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
 #EXTINF:-1 group-title="地方台" tvg-name="QTV-3",QTV-3
 http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
+#EXTINF:-1 group-title="地方台" tvg-name="QTV-3",QTV-3
+http://119.166.53.110:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="地方台" tvg-name="QTV-4",QTV-4
 http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
+#EXTINF:-1 group-title="地方台" tvg-name="QTV-4",QTV-4
+http://119.166.53.110:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="地方台" tvg-name="QTV-5",QTV-5
 http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
 #EXTINF:-1 group-title="地方台" tvg-name="QTV-6",QTV-6
 http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
+#EXTINF:-1 group-title="地方台" tvg-name="QTV-6",QTV-6
+http://119.166.53.110:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="地方台" tvg-name="Shenzhen Satellite TV (2160p)",Shenzhen Satellite TV (2160p)
 https://livepull-tcms.sztv.com.cn/live/sz4Kpgm.m3u8
 #EXTINF:-1 group-title="地方台" tvg-name="Siping TV",Siping TV
@@ -1663,10 +1669,6 @@ https://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
 https://stream2.jlntv.cn/tonghua1/sd/live.m3u8
 #EXTINF:-1 group-title="地方台" tvg-name="邗江资讯 (576p)",邗江资讯 (576p)
 http://223.110.245.139/PLTV/4/224/3221227154/index.m3u8
-#EXTINF:-1 group-title="地方台" tvg-name="邢台城生",邢台城生
-http://222.223.119.21:8888/newlive/live/hls/55/live.m3u8
-#EXTINF:-1 group-title="地方台" tvg-name="邢台综合",邢台综合
-http://222.223.119.21:8888/newlive/live/hls/54/live.m3u8
 #EXTINF:-1 group-title="地方台" tvg-name="酒泉新闻综合 (576p)",酒泉新闻综合 (576p)
 http://117.156.28.119/270000001111/1110000001/index.m3u8
 #EXTINF:-1 group-title="地方台" tvg-name="金昌公共頻道 (240p) [Geo-blocked]",金昌公共頻道 (240p) [Geo-blocked]
@@ -1737,6 +1739,10 @@ https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
 https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
 #EXTINF:-1 group-title="地方台" tvg-name="Fujian Comprehensive Channel",Fujian Comprehensive Channel
 http://120.39.52.202:5140/%E7%A6%8F%E5%BB%BA%E7%BB%BC%E5%90%88
+#EXTINF:-1 group-title="地方台" tvg-name="Guangxi Variety & Travel Channel",Guangxi Variety & Travel Channel
+http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="地方台" tvg-name="Kangba TV",Kangba TV
+http://110.185.237.164:8888/hls/30/index.m3u8
 #EXTINF:-1 group-title="地方台" tvg-name="CCTV2",CCTV2
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010211/
 #EXTINF:-1 group-title="地方台" tvg-name="CCTV2",CCTV2
