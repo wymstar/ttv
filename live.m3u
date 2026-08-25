@@ -993,6 +993,8 @@ https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 https://xykt-fix.github.io/Y77.m3u8
 #EXTINF:-1 group-title="纪录" tvg-name="CGTN Documentary (1080p)",CGTN Documentary (1080p)
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+#EXTINF:-1 group-title="纪录" tvg-name="CGTN Documentary (1080p)",CGTN Documentary (1080p)
+https://hlspackager.akamaized.net/live/DB/CGTN_DOCUMENTARY/HLS/CGTN_DOCUMENTARY.m3u8
 #EXTINF:-1 group-title="纪录" tvg-name="CCTV-9",CCTV-9
 https://cctvwbcdtxyhw.liveplay.myqcloud.com/cctvwbcd/cdrmjzcctv9_1/index.m3u8
 #EXTINF:-1 group-title="纪录" tvg-name="RT Documentary",RT Documentary
@@ -1181,6 +1183,8 @@ http://117.161.133.51:81/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 #EXTINF:-1 group-title="地方台" tvg-name="CGTN (1080p)",CGTN (1080p)
 https://english-livebkali.cgtn.com/live/encgtn.m3u8
+#EXTINF:-1 group-title="地方台" tvg-name="CGTN (1080p)",CGTN (1080p)
+https://hlspackager.akamaized.net/live/DB/CGTN_ENGLISH/HLS/CGTN_ENGLISH.m3u8
 #EXTINF:-1 group-title="地方台" tvg-name="CGTN (720p)",CGTN (720p)
 https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 group-title="地方台" tvg-name="CGTN French (1080p)",CGTN French (1080p)

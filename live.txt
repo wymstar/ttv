@@ -506,6 +506,7 @@ CCTV-9 纪录,http://148.135.93.213:81/live.php?id=CCTV9
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 CCTV-9 (576i),https://xykt-fix.github.io/Y77.m3u8
 CGTN Documentary (1080p),https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+CGTN Documentary (1080p),https://hlspackager.akamaized.net/live/DB/CGTN_DOCUMENTARY/HLS/CGTN_DOCUMENTARY.m3u8
 CCTV-9,https://cctvwbcdtxyhw.liveplay.myqcloud.com/cctvwbcd/cdrmjzcctv9_1/index.m3u8
 RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 CGTN Documentary,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63a15d0ee63f3/index.m3u8?m3u8_level=2
@@ -604,6 +605,7 @@ CETV1 (576p),http://117.161.133.51:81/gitv_live/G_CETV-1/G_CETV-1.m3u8?p=GITV
 CETV2 (576p),http://117.161.133.51:81/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV
 CGTN (1080p),https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 CGTN (1080p),https://english-livebkali.cgtn.com/live/encgtn.m3u8
+CGTN (1080p),https://hlspackager.akamaized.net/live/DB/CGTN_ENGLISH/HLS/CGTN_ENGLISH.m3u8
 CGTN (720p),https://0472.org/hls/cgtn.m3u8
 CGTN French (1080p),http://145.239.5.177/214/index.m3u8
 CGTN Spanish (720p),http://45.165.82.19/test/index.m3u8
