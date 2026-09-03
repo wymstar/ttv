@@ -1187,6 +1187,8 @@ https://english-livebkali.cgtn.com/live/encgtn.m3u8
 https://hlspackager.akamaized.net/live/DB/CGTN_ENGLISH/HLS/CGTN_ENGLISH.m3u8
 #EXTINF:-1 group-title="地方台" tvg-name="CGTN (720p)",CGTN (720p)
 https://0472.org/hls/cgtn.m3u8
+#EXTINF:-1 group-title="地方台" tvg-name="CGTN (720p)",CGTN (720p)
+https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8
 #EXTINF:-1 group-title="地方台" tvg-name="CGTN French (1080p)",CGTN French (1080p)
 http://145.239.5.177/214/index.m3u8
 #EXTINF:-1 group-title="地方台" tvg-name="CGTN Spanish (720p)",CGTN Spanish (720p)
