@@ -79,20 +79,12 @@ http://74.91.26.218:82/live/cctv10hd.m3u8
 https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 #EXTINF:-1 group-title="央视" tvg-name="CCTV-11 (720p)",CCTV-11 (720p)
 http://74.91.26.218:82/live/cctv11hd.m3u8
-#EXTINF:-1 group-title="央视" tvg-name="CCTV-11",CCTV-11
-https://xykt-fix.github.io/play/a02b/index.m3u8
-#EXTINF:-1 group-title="央视" tvg-name="CCTV11",CCTV11
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031106/
-#EXTINF:-1 group-title="央视" tvg-name="CCTV11",CCTV11
-http://39.135.135.82/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-name="CCTV-12 (720p)",CCTV-12 (720p)
 http://74.91.26.218:82/live/cctv12hd.m3u8
 #EXTINF:-1 group-title="央视" tvg-name="CCTV-13 (1080p)",CCTV-13 (1080p)
 http://go.bkpcp.top/mg/cctv13
 #EXTINF:-1 group-title="央视" tvg-name="CCTV-13 (720p)",CCTV-13 (720p)
 http://74.91.26.218:82/live/cctv13hd.m3u8
-#EXTINF:-1 group-title="央视" tvg-name="CCTV-15 (1080p)",CCTV-15 (1080p)
-https://xykt-fix.github.io/play/a02e/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-name="CCTV-15 (720p)",CCTV-15 (720p)
 http://74.91.26.218:82/live/cctv15hd.m3u8
 #EXTINF:-1 group-title="央视" tvg-name="CCTV-16 (1080p)",CCTV-16 (1080p)
@@ -105,6 +97,12 @@ http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010203/
 http://39.135.135.75/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-name="CCTV-10",CCTV-10
 https://cctvwbcdtxyhw.liveplay.myqcloud.com/cctvwbcd/cdrmjzcctv10_1/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV11",CCTV11
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031106/
+#EXTINF:-1 group-title="央视" tvg-name="CCTV11",CCTV11
+http://39.135.135.82/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV-11",CCTV-11
+https://cctvwbcdtxyhw.liveplay.myqcloud.com/cctvwbcd/cdrmjzcctv11_1/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-name="CCTV12",CCTV12
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010205/
 #EXTINF:-1 group-title="央视" tvg-name="CCTV12",CCTV12
@@ -1761,6 +1759,12 @@ https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8
 https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
 #EXTINF:-1 group-title="地方台" tvg-name="Dongguan Comprehensive News Channel",Dongguan Comprehensive News Channel
 http://stream.sun0769.com/dgrtv1/mp4tv1_1500.flv
+#EXTINF:-1 group-title="地方台" tvg-name="Tonghua TV",Tonghua TV
+http://139.211.217.79:9004/hls/75/index.m3u8
+#EXTINF:-1 group-title="地方台" tvg-name="Hunan Economy Channel",Hunan Economy Channel
+https://p8.vzan.com/slowlive/415983998730568937/live.m3u8
+#EXTINF:-1 group-title="地方台" tvg-name="Xinjiang TV 5",Xinjiang TV 5
+http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="地方台" tvg-name="CCTV2",CCTV2
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010211/
 #EXTINF:-1 group-title="地方台" tvg-name="CCTV2",CCTV2
