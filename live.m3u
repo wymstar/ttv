@@ -751,6 +751,8 @@ http://112.25.48.68/live/program/live/hdnba5/4000000/mnf.m3u8
 http://112.25.48.68/live/program/live/hdnba7/4000000/mnf.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="篮球资讯 (576p)",篮球资讯 (576p)
 http://223.110.245.139/PLTV/4/224/3221227023/index.m3u8
+#EXTINF:-1 group-title="体育" tvg-name="CCTV-5+ (1080p)",CCTV-5+ (1080p)
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
 #EXTINF:-1 group-title="体育" tvg-name="CCTV-5",CCTV-5
 https://cctvwbcdtxyhw.liveplay.myqcloud.com/cctvwbcd/cdrmjzcctv5_1/index.m3u8
 #EXTINF:-1 group-title="体育" tvg-name="风云足球",风云足球
