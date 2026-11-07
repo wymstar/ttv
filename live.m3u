@@ -1767,6 +1767,10 @@ http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8
 http://183.207.248.71/gitv/live1/G_HEILONGJIANG/G_HEILONGJIANG
 #EXTINF:-1 group-title="地方台" tvg-name="黑龙江卫 (1080p)",黑龙江卫 (1080p)
 http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv
+#EXTINF:-1 group-title="地方台" tvg-name="Yichang Sanxia Travel & Life Channel",Yichang Sanxia Travel & Life Channel
+https://liveplay.ycrmt.cn/sxgd/lysh.m3u8
+#EXTINF:-1 group-title="地方台" tvg-name="Yichang Sanxia General Channel",Yichang Sanxia General Channel
+https://liveplay.ycrmt.cn/sxgd/zhpd.m3u8
 #EXTINF:-1 group-title="地方台" tvg-name="CCTV2",CCTV2
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010211/
 #EXTINF:-1 group-title="地方台" tvg-name="CCTV2",CCTV2
